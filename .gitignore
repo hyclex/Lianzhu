@@ -1,3 +1,9 @@
+# tmp and test files
+build
+build/*
+tmp
+tmp/*
+
 # Prerequisites
 *.d
 
